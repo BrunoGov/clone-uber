@@ -1,7 +1,7 @@
 # Recriando tela de busca do Uber
 Tela de busca do Uber e traçando rotas para o destino selecionado, construído com React Native.
 
-# Instalaçao
+# Instalação
 
  + #### `npm install`<br/>
   ```
